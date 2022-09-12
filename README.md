@@ -5,6 +5,8 @@ How to develop ?
   1. Clone the repo
   2. Do npm install or yarn
   3. npx react-native run-android or use Android Studio to install it.
+  
+App Build: https://drive.google.com/file/d/1Qy2-5P80nKDRTBnMbB3JBiy1fJ2F-s60/view?usp=sharing
 
 ScreenShot: 
 
